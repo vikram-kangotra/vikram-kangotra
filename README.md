@@ -4,6 +4,7 @@
 #### My current toolkit of programming Language includes
 - C/C++
 - Java
+- Assembly
 - Python
 - HTML and CSS (Programming Languages? You kidding me...)
 - Javascript
