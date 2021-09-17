@@ -1,8 +1,8 @@
 ### Hi, I'm @vikram-kangotra.
-#### A complete computer enthusiast , has just started digging into the dense world of computer science.
+#### A complete computer enthusiast a.k.a weirdo. Likes to dig into the dense world of computer science.
 #### I've got an interest in extremes of computer science, ranging from assembly programing to OS development. From creating my own programming language to AI models from scratch.
-#### My current toolkit of programming Language includes
-- C/C++
+#### Loves to code in
+- C/C++ (mostly)
 - Java
 - Assembly
 - Python
@@ -10,3 +10,4 @@
 - Javascript
 - Ruby
 - Bash
+- Vimscript
