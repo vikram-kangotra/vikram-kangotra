@@ -6,6 +6,7 @@
 - Java
 - Assembly
 - Python
+- go
 - HTML and CSS (Programming Languages?)
 - Javascript
 - Ruby
