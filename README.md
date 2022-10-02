@@ -14,5 +14,4 @@
 - Bash
 - Vimscript
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake.svg)
