@@ -4,7 +4,7 @@
 #### I've got an interest in extremes of computer science, ranging from assembly programing to OS development. From creating my own programming language to AI models from scratch.
 #### Loves to code in
 - C/C++ :relaxed:
-- Rust
+- Rust :relieved:
 - Java
 - Assembly
 - Python
