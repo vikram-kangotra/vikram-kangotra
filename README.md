@@ -9,7 +9,8 @@
 - Assembly
 - Python
 - go
-- HTML and CSS (Programming Languages?)
+- HTML
+- CSS
 - Javascript
 - Ruby
 - Bash
