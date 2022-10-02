@@ -22,7 +22,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vimscript](https://img.shields.io/badge/Vimscript-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
-![Vikram's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-kangotra&theme=blue-green)
+![vikram's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikram-kangotra&theme=dracula)
 
 ![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake.svg)
 
