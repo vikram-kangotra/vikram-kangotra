@@ -2,6 +2,9 @@
 ## :computer: About Me
 #### A complete computer enthusiast. Likes to dig into the dense world of computer science.
 #### I've got an interest in extremes of computer science, ranging from assembly programing to OS development. From creating my own programming language to AI models from scratch.
+
+<div align='center'>
+
 #### :relaxed: Loves to code in
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
@@ -19,10 +22,8 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vimscript](https://img.shields.io/badge/Vimscript-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
-<div align='center'>
-
 ![Vikram's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-kangotra&theme=blue-green)
 
-</div>
-
 ![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake.svg)
+
+</div>
