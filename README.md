@@ -16,4 +16,10 @@
 - Bash
 - Vimscript
 
+<div align='center'>
+
+![Vikram's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-kangotra&theme=blue-green)
+
+</div>
+
 ![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake.svg)
