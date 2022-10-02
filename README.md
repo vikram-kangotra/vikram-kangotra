@@ -2,7 +2,7 @@
 ## :computer: About Me
 #### A complete computer enthusiast. Likes to dig into the dense world of computer science.
 #### I've got an interest in extremes of computer science, ranging from assembly programing to OS development. From creating my own programming language to AI models from scratch.
-#### Loves to code in
+#### :relaxed: Loves to code in
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
