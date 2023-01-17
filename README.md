@@ -1,7 +1,7 @@
 # :hand: Hi, I'm @vikram-kangotra.
 ## :computer: About Me
-#### A complete computer enthusiast. Likes to dig into the dense world of computer science.
-#### I've got an interest in extremes of computer science, ranging from assembly programing to OS development. From creating my own programming language to AI models from scratch.
+#### As a computer enthusiast, I have a deep passion for delving into the intricacies of computer science. My interests span the spectrum of the field, from low-level assembly programming and operating system development to the cutting-edge of artificial intelligence and machine learning. 
+#### I am driven to push the boundaries of what is possible and am constantly seeking new challenges, whether it be creating my own programming language or building AI models from scratch. I am driven by a relentless curiosity and a desire to understand the inner workings of technology and to harness its power to solve complex problems.
 
 <div align='center'>
 
