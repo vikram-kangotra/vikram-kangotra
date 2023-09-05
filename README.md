@@ -21,6 +21,7 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vimscript](https://img.shields.io/badge/Vimscript-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![WEBASSEMBLY](https://img.shields.io/badge/_-WASM-04133B.svg?style=for-the-badge)
 
 ![vikram's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikram-kangotra&theme=dracula)
 
