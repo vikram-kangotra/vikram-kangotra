@@ -1,4 +1,4 @@
-z# :hand: Hi, I'm @vikram-kangotra.
+# :hand: Hi, I'm @vikram-kangotra.
 
 ## :earth_asia: About Me
 I'm Vikram Kangotra, a passionate programmer hailing from the beautiful city of Jammu, India. My journey in the world of programming has been a thrilling adventure, fueled by an insatiable curiosity and an unquenchable thirst for knowledge.
