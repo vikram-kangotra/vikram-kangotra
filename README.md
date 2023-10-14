@@ -33,7 +33,7 @@ I am driven to push the boundaries of what is possible and am constantly seeking
 
 ![vikram's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikram-kangotra&theme=dracula)
 
-![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/vikram-kangotra/vikram-kangotra/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
