@@ -39,5 +39,5 @@ I am driven to push the boundaries of what is possible and am constantly seeking
 
 ### :mailbox_with_mail: Get in Touch
 - :briefcase: Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/vikram-kangotra-991352241/))
-- :globe_with_meridians: Visit my [personal website](https://www.yourwebsite.com/](https://vikram-kangotra.github.io/)https://vikram-kangotra.github.io/)
+- :globe_with_meridians: Visit my [personal website](https://vikram-kangotra.github.io/)
 
