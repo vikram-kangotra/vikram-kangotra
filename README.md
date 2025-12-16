@@ -4,11 +4,6 @@ I'm a software engineer currently working as an **Android Engineer at Samsung**.
 
 With a strong foundation in systems and low-level development, I enjoy bridging the gap between high-level user interfaces and the underlying machine.
 
-## 💼 Current Role
-
-**Android Engineer @ Samsung**  
-Working on large-scale Android systems and platform-level components, contributing to core features used by millions globally.
-
 ## 🔭 Interests & Focus Areas
 
 - 📱 **Android Internals & Framework Development**  
