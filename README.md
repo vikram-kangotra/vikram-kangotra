@@ -1,16 +1,23 @@
 # 👋 Hi, I'm Vikram Kangotra
 
-I'm a software engineer currently working as an **Android Engineer at Samsung**. I specialize in building scalable, performant, and user-centric mobile experiences while also diving deep into systems-level programming and compiler design.
+I’m a Software Engineer at **PhonePe**, working in the **SRE Tools Team**, where I design and build internal reliability and platform tooling primarily using **Go** and **Rust**.
 
-With a strong foundation in systems and low-level development, I enjoy bridging the gap between high-level user interfaces and the underlying machine.
+My work focuses on distributed systems, developer productivity, observability, and performance. I enjoy building infrastructure that scales quietly and reliably — systems that are efficient, debuggable, and resilient by design.
 
-## 🔭 Interests & Focus Areas
+With a strong foundation in systems programming and low-level development, I’m naturally drawn to problems close to the metal while keeping large-scale production environments in mind.
 
-- 📱 **Android Internals & Framework Development**  
-- ⚙️ **Systems Programming** — OS dev, embedded systems, memory management, Rust
-- 🌐 **WebAssembly** — VLC browser integration, Wasmer runtime tooling
-- 🧠 **AI/ML Systems** — DNNs from scratch, facial recognition pipelines
-- 🤝 **Open Source** — GSoC 2023 & 2024 @ VideoLAN, VLC WebAssembly plugins
+---
+
+## 🔭 What I Work On
+
+- 🛠 **SRE & Internal Tooling** — Automation systems, reliability platforms, developer tooling  
+- ⚙️ **Systems Programming** — OS development, memory management, Rust internals  
+- 🌐 **WebAssembly & Runtime Tooling** — VLC browser integration, Wasmer experimentation  
+- 📱 **Android & Platform Engineering** — Previously built production mobile systems  
+- 🧠 **AI/ML Systems** — DNNs from scratch, real-time facial expression pipelines  
+- 🤝 **Open Source** — GSoC 2023 & 2024 @ VideoLAN (WebAssembly plugins for VLC)
+
+---
 
 ## 🧰 Tech Stack
 
@@ -49,20 +56,32 @@ With a strong foundation in systems and low-level development, I enjoy bridging 
 
 </div>
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
+## 🚀 Engineering Philosophy
+
+- Build for scale, not just correctness  
+- Prefer observability over assumptions  
+- Optimize only after understanding the system deeply  
+- Keep abstractions clean and predictable  
+- Ship tools that engineers actually enjoy using  
+
+---
+
+## 📈 GitHub Stats
 
 ![vikram-kangotra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-kangotra&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-kangotra&layout=compact&theme=tokyonight)
 
-</div>
+---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/vikram-kangotra-991352241/)
-- 🌍 [Personal Website](https://vikram-kangotra.github.io/)
-- 💬 Open to collaboration in Android internals, Rust tooling, and compiler tech
+- 📎 [LinkedIn](https://www.linkedin.com/in/vikram-kangotra-991352241/)  
+- 🌍 [Personal Website](https://vikram-kangotra.github.io/)  
+- 💬 Open to conversations around distributed systems, Rust tooling, SRE platforms, and systems design  
 
-_Aiming to build reliable software that performs, scales, and lasts._
+---
+
+**Building reliable systems that perform under pressure and scale without surprises.**
